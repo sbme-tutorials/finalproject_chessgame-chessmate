@@ -49,7 +49,8 @@
 ![Game Data](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/124778473/d20bfe31-d7bc-4a89-a769-f95eefebf172)
 
 ### Game Demo
-https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/52898207/bd35a498-043c-4019-94ae-47388c6938ee
+
+![Game Demo](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/124778473/311804f7-4e4f-4b28-bcd6-c141b7ddc53d)
 
 
 
