@@ -13,6 +13,26 @@
 
 ## Features
 
+## Piece Moves
+
+### Pawn
+
+
+### Bishop
+
+
+### Knight
+
+
+### Rook
+
+
+### King
+
+
+### Queen
+
+
 ### Timer
 
 <p align="justify"> The game includes a timer that counts down from a set time before starting the game. Each player will have a set amount of time to complete their moves. When a player starts their turn, their timer will begin to count down. The timer will stop when the player makes their move, and then the opponent's timer will start counting down. If a player's timer reaches 0 before they make their move, they will lose the game. It's important for the player to keep track of the time remaining and make strategic moves to ensure that they don't run out of time. </p>
