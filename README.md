@@ -16,21 +16,22 @@
 ### Piece Moves
 
 #### Pawn
-
+![white pawn](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/52898207/bb889654-a27e-450d-9c37-3de78af7fa6e)
 
 #### Bishop
-
+![black bishop](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/52898207/98b28383-af33-40f6-a18a-91cba3a304c7)
 
 #### Knight
-
+![white knight](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/52898207/c163ec41-0878-40f0-9c0f-3fff7ef1a7ff)
 
 #### Rook
-
+![white rook](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/52898207/dade6f4b-4566-41f9-8329-fda5035a3258)
 
 #### King
-
+![white king](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/52898207/b1ca78d8-59e3-4803-b5ba-60d8740935a3)
 
 #### Queen
+![white queen](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/52898207/bef93be7-f8e1-49d2-871d-3dbff382ed42)
 
 
 
