@@ -13,24 +13,24 @@
 
 ## Features
 
-## Piece Moves
+### Piece Moves
 
-### Pawn
-
-
-### Bishop
+#### Pawn
 
 
-### Knight
+#### Bishop
 
 
-### Rook
+#### Knight
 
 
-### King
+#### Rook
 
 
-### Queen
+#### King
+
+
+#### Queen
 
 
 ### Timer
