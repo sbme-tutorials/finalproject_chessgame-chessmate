@@ -35,6 +35,8 @@
 
 ### King under check 
 ![black king check](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/52898207/c3a7c23e-d9bf-44f3-89e3-da65bb8f5a78)
+https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/52898207/bd35a498-043c-4019-94ae-47388c6938ee
+
 
 
 
