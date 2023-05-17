@@ -62,7 +62,7 @@ public class ChessGUI {
 //toolbar of buttons and message
         tools.add(newGame);
         JButton saveButton = new JButton("Save");
-        tools.add(saveButton);
+       // tools.add(saveButton);
         saveButton.setFocusable(false);
         tools.add(backToMenu);
         tools.addSeparator();
