@@ -47,7 +47,9 @@ https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/528982
 
 ### User Account
 <p align="justify"> The game also includes a user account system that allows users to create new account credentials (username and password). If the credentials are incorrect, an error message is displayed. When a user logs in, they can either play a new game or retrieve the scores of previous games, including the players' names and the winner, as well as the time elapsed to complete the game. Each account has its own recorded games, which are saved as files for easy retrieval. There is no need for a database to keep track of the game history. </p>
-![WhatsApp Image 2023-05-18 at 00 02 37](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/52898207/60070afa-ea65-4f39-aa14-849e2bf75fd6)
+
+![Game Data](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/124778473/46dae477-9737-4335-9876-0696ccb2d411)
+
 
 ## Conclusion
 
