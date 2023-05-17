@@ -27,11 +27,15 @@
 #### Rook
 ![white rook](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/52898207/dade6f4b-4566-41f9-8329-fda5035a3258)
 
+#### Queen
+![white queen](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/52898207/bef93be7-f8e1-49d2-871d-3dbff382ed42)
+
 #### King
 ![white king](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/52898207/b1ca78d8-59e3-4803-b5ba-60d8740935a3)
 
-#### Queen
-![white queen](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/52898207/bef93be7-f8e1-49d2-871d-3dbff382ed42)
+### King under check 
+![black king check](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/52898207/c3a7c23e-d9bf-44f3-89e3-da65bb8f5a78)
+
 
 
 
